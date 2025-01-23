@@ -4,7 +4,7 @@ import JobCard from '@/components/JobCard';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from '@/components/ui/select';
-import useFetch from '@/hooks/UseFetch';
+import useFetch from '@/hooks/useFetch';
 import { useUser } from '@clerk/clerk-react';
 import { State } from 'country-state-city';
 import React, { useEffect, useState } from 'react'
