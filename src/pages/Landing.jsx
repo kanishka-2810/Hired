@@ -68,7 +68,7 @@ const Landing = () => {
 
             {/* banner */}
             <div className='opacity-0 translate-y-0 scroll_animation'>
-            <img src="/banner1.jpg" alt="banner" className='w-full'/>
+            <img src="/banner.jpg" alt="banner" className='w-full'/>
             </div>
 
             <section className='grid grid-cols-1 md:grid-cols-2 gap-4'>

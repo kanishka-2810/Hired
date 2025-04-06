@@ -2,7 +2,7 @@ import React from 'react'
 import {Drawer, DrawerClose, DrawerContent, DrawerDescription, DrawerFooter, DrawerHeader, DrawerTitle, DrawerTrigger,} from "@/components/ui/drawer"
 import { Button } from '@/components/ui/button';
 import { Input } from './input';
-import { Label } from "@/components/ui/label"
+import { Label } from "@/components/ui/Label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 import { z } from 'zod';
 import { Controller, useForm } from 'react-hook-form';
